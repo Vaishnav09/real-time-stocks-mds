@@ -1,0 +1,28 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# dbt
+target/
+logs/
+dbt_packages/
+
+# Airflow / Docker logs
+*.log
+infra/logs/
+
+# Secrets and env files
+.env
+.env.*
+profiles.yml
+*.pem
+*.key
+secrets/
+config.private.*
+*.tfvars
+
+# macOS
+.DS_Store
+
+Architecture Diagram.png
