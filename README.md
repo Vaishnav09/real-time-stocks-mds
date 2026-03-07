@@ -1,4 +1,4 @@
-# Real-Time Stock Market Data Pipeline (Modern Data Stack)
+# Real-Time Stock Market Data Pipeline
 
 ## Overview
 
