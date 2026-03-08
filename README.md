@@ -238,8 +238,8 @@ dbt run
 ### 7. Connect Power BI
 
 Connect Power BI to Snowflake using DirectQuery and build analytics dashboards.
+---<img width="897" height="506" alt="Screenshot 2026-03-07 at 8 03 40 PM" src="https://github.com/user-attachments/assets/9fa2ba02-ec34-44ec-98c6-d5ecf055bdf6" />
 
----
 
 ## Security Notes
 
